@@ -5,13 +5,13 @@
     <string name="activity_name">Credit Card Reader</string>
 
     <!-- Msg -->
-    <string name="billing_success">Thanks for your donation !</string>
-    <string name="card_read">Card read</string>
-    <string name="card_reading">Reading in progress&#8230;</string>
-    <string name="card_deleted">Card data deleted</string>
-    <string name="card_reading_desc">Please do not remove or move card during reading.</string>
-    <string name="nfc_locked">NFC is locked on your card or card not activated</string>
-    <string name="msg_nfc_available">This device doesn\'t have NFC which is required to run this application.</string>
+    <string name="billing_success">Köszönjük a támogatást !</string>
+    <string name="card_read">Kártya olvasás</string>
+    <string name="card_reading">Olvasás folyamatban&#8230;</string>
+    <string name="card_deleted">Kártya adatai törölve</string>
+    <string name="card_reading_desc">Kérlek, ne távolítsd el és ne mozgasd a kártyát kiolvasás közben.</string>
+    <string name="nfc_locked">Az NFC tiltott, vagy nincs aktiválva a kártyán</string>
+    <string name="msg_nfc_available">Ebben az eszközben nincs NFC, ami elengedhetetlen az alkalmazás futtatásához.</string>
     <string name="msg_nfc_disable">Please enable NFC and press back to return to this application.</string>
     <string name="msg_activate_nfc">OK</string>
     <string name="msg_info">Info</string>
